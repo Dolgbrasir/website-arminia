@@ -25,3 +25,23 @@
     background-color: #04AA6D;
     color: white;
   }
+  #farbenkreis {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-bottom: 5px;
+    border: 3px solid #000;
+    transform: rotate(30deg);
+  }
+
+  html {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .top-stripe {
+    background-image: url(./images/München_Arminia.jpg);
+    height: 200px;
+  }
